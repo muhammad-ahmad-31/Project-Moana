@@ -30,7 +30,9 @@ There are three options in it:
 Worked perfectly fine with Kali 2018, just needs to install some dependencies which require an internet connnection.
 
 Just run (Do not try to open other scripts individually, they work with coordination, if run they may delete your data)
+
 chmod +x start.sh
+
 ./start.sh
 
 
